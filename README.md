@@ -1,2 +1,2 @@
 # smile-again
-An initiative to help the elders who live in old age homes to overcome their lonliness
+An initiative to help the elders to overcome their lonliness who live in old age homes
