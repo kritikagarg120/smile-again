@@ -1,0 +1,13 @@
+body {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 900px;
+    border: 8px solid black !important;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
